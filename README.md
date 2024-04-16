@@ -119,6 +119,3 @@ Contributions, issues and feature requests sangat saya apresiasi karena aplikasi
 Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
 
 <p></p>
-
-<h2 id="lisensi">📝 Lisensi</h2>
-
