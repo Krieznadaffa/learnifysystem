@@ -1,11 +1,6 @@
-<h1 align="center">Selamat datang di repository Learnify! 👋🏻</h1>
+<h1 align="center">Selamat datang di repository Learnify System! 👋🏻</h1>
 
 ![learnify-preview](https://user-images.githubusercontent.com/46257169/173141000-0a2346bf-adbc-41cb-9699-e7ffff1cba8e.png)
-
-<p></p>
-
-<h4 align="center">Website e-learning untuk membantu belajar dimana saja dan kapan saja yang dibuat dengan <a href="https://codeigniter.com/" target="_blank">Codeigniter</a>.
-</h4>
 
 <p></p>
 
@@ -31,7 +26,7 @@
 
 <h2 id="tentang">👨🏻‍🏫 Tentang Learnify</h2>
 
-Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran kala pandemi, learnify dibuat agar para siswa dan guru dapat terus belajar dan mengajar dimana saja dan kapan saja.
+Website edukasi yang dibuat dalam rangka mengatasi solusi pembelajaran dikala pandemi, learnify system ini dibuat agar pembelajaran antara para siswa dan guru dapat terus berlangsung dimana saja dan kapan saja.
 
 <p></p>
 
@@ -102,20 +97,10 @@ http://localhost/learnify/welcome
 
 <p></p>
 
-<h2 id="dukungan">💌 Dukungan</h2>
 
-Kalian bisa mendukung saya di platform trakteer! Dukungan kalian akan sangat membantu untuk saya, namun dengan anda star project ini juga sudah sangat membantu lho!
 
-<p></p>
+<h2 id="Pesan">🤝 Pesan </h2>
 
-<a href="https://trakteer.id/syaufy" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-red-5.png" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
-
-<p></p>
-
-<h2 id="kontribusi">🤝 Kontribusi</h2>
-
-Contributions, issues and feature requests sangat saya apresiasi karena aplikasi ini jauh dari kata sempurna. Jangan ragu untuk pull request dan membuat perubahan pada project ini.
-
-Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal yang bisa diperbaiki maka bantuan kalian sangat saya apresiasi.
+Maaf sistem masih belum sempurna. Terimakasih
 
 <p></p>
